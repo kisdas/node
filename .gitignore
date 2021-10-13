@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+
+# testing
+/coverage
+
+# production
+dist/
+lib/
+build
+
+# misc
+.DS_Store
+*.local*
+*.pyc
+.backups
+
+# log
+*.log*
+
+# react-docgen
+extracted/
+
+# editor
+.magicindex.json
+.idea
+*.iml
+.vscode
+.history
+*.swp
+
+apps/statics/public/
+
+bundles/
+
+.cache
+.eslintrc_lint_staged
+
+yalc.lock
+.yalc
